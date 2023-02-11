@@ -1,19 +1,40 @@
-# Video 07 - Entorno: node & npm
+# Video 07 - Instalación de CRA y primer proyecto
 
-En este vídeo hablaremos sobre lo que es Node y Npm.
+En este video hablaremos sobre la herramienta de consola Create React App. Aquí podrás encontrar la documentación oficial de Create React App (CRA):
 
-`Node.js` es un entorno de ejecución de JavaScript en el lado del servidor que permite a los desarrolladores crear aplicaciones web escalables y de alta performance. Node.js utiliza el motor de JavaScript de Google Chrome, V8, para ejecutar el código JavaScript en el lado del servidor.
+[https://es.reactjs.org/docs/create-a-new-react-app.html](https://es.reactjs.org/docs/create-a-new-react-app.html)
 
-`npm` (Node Package Manager) es el gestor de paquetes oficial para Node.js y se utiliza para instalar y administrar las dependencias de un proyecto Node.js. Con `npm`, los desarrolladores pueden descargar y compartir paquetes de código, librerías y herramientas que les ayudarán a acelerar su proceso de desarrollo.
+Este es el comando que usaremos para ejecutar CRA y crear un proyecto React:
 
-Después haremos una instalación de NodeJS y npm desde su página oficial:
+`npx create-react-app my-app`
 
-[https://nodejs.org/en/](https://nodejs.org/en/) 
+Recuerda: No instales CRA de forma global, ya que esto te dejará en tu ordenador una versión “congelada” de Create React App:
 
-Recuerda descargar la versión LTS y seguir todos los pasos del instalador:
+~~`npm i create-react-app --global`~~
 
-![node](/docs/assets/node.png)
+Es mejor usar siempre la última disponible haciendo uso del comando indicando anteriormente. Por ello, si ya habías instalado CRA globalmente, lo puedes desinstalar con este comando:
 
-Enlace al repositorio de esta sesión:
+`npm uninstall create-react-app --global`
 
-[https://github.com/The-Valley-School/react-s1-intro-and-concepts](https://github.com/The-Valley-School/react-s1-intro-and-concepts)
+**A continuación te dejamos el esquema de carpetas que te genera Create React App:**
+
+- README.md → Fichero con información del proyecto
+- node_modules → Librerías descargadas de NPM
+- package.json → Dependencias y comandos de NPM
+- .gitignore → Fichero para git, indica qué cosas debe ignorar
+- /public
+    - favicon.ico → Icono de la web (se muestra en la pestaña del navegador)
+    - index.html → Documento principal de nuestra SPA
+    - logo192.png → Icono que se usa al guardar la web como favorito en el navegador
+    - logo512.png → Otro icono que se usa al guardar la web como favorito en el navegador
+    - manifest.json → Info para el navegador, permite añadir la web a la pantalla de inicio
+    - robots.txt → Info para los buscadores (google, bing… etc)
+- /src
+    - App.css → Estilos de nuestro componente principal
+    - App.js → Componente principal App
+    - App.test.js → Fichero de test para el componente App.js
+    - index.css → Estilos globales
+    - index.js → Fichero JS que arrancará React
+    - logo.svg → Logo usado en el componente App.js (se puede borrar)
+    - reportWebVitals.js → Permite medir el performance de nuestra web
+    - setupTests.js → Config para los tests
