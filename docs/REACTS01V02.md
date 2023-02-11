@@ -28,7 +28,7 @@ En los siguientes gráficos podrás ver la diferencia entre una web tradicional 
 
 **CAN I USE?**
 
-<https://caniuse.com/)>
+<https://caniuse.com/>
 
 Can I Use es un sitio web que proporciona información sobre la compatibilidad de los diferentes navegadores con las últimas tecnologías web, como HTML, CSS, JavaScript y APIs. Es una herramienta útil para los desarrolladores web que buscan determinar si una característica específica es compatible con un navegador o plataforma en particular.
 
