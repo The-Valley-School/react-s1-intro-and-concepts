@@ -13,7 +13,3 @@ Después haremos una instalación de NodeJS y npm desde su página oficial:
 Recuerda descargar la versión LTS y seguir todos los pasos del instalador:
 
 ![node](/docs/assets/node.png)
-
-Enlace al repositorio de esta sesión:
-
-[https://github.com/The-Valley-School/react-s1-intro-and-concepts](https://github.com/The-Valley-School/react-s1-intro-and-concepts)

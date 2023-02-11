@@ -55,3 +55,7 @@ console.log(undefined ?? false);
 Como puedes probar todas en la consola, deberás indicar el valor que devuelven y además una pequeña explicación de por qué da esa respuesta en cada caso.
 
 Deja las respuestas dentro del mismo repositorio que el proyecto react. Puedes subir un JS o un fichero txt, lo que prefieras.
+
+Recuerda que el código que hemos visto durante los vídeos puedes encontrarlo en el siguiente repositorio:
+
+<https://github.com/The-Valley-School/react-s1-intro-and-concepts>

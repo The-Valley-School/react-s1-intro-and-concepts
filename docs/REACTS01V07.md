@@ -38,3 +38,7 @@ Es mejor usar siempre la última disponible haciendo uso del comando indicando a
     - logo.svg → Logo usado en el componente App.js (se puede borrar)
     - reportWebVitals.js → Permite medir el performance de nuestra web
     - setupTests.js → Config para los tests
+
+Recuerda que el código que hemos visto durante los vídeos puedes encontrarlo en el siguiente repositorio:
+
+<https://github.com/The-Valley-School/react-s1-intro-and-concepts>
