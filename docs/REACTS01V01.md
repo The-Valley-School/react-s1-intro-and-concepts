@@ -2,7 +2,7 @@
 
 En este vídeo hablaremos sobre la evolución del mundo Front-End y las librerías que fueron surgiendo a lo largo de la historia:
 
-<https://jquery.com/)>
+<https://jquery.com/>
 
 <https://backbonejs.org/>
 
@@ -12,7 +12,7 @@ En este vídeo hablaremos sobre la evolución del mundo Front-End y las librerí
 
 Y finalmente nos centraremos en React:
 
-<https://reactjs.org/)>
+<https://reactjs.org/>
 
 **Virtual dom de React**
 
