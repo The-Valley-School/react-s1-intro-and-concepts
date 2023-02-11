@@ -8,7 +8,7 @@ En este vídeo hablaremos sobre lo que es Node y Npm.
 
 Después haremos una instalación de NodeJS y npm desde su página oficial:
 
-[https://nodejs.org/en/](https://nodejs.org/en/) 
+<https://nodejs.org/en/>
 
 Recuerda descargar la versión LTS y seguir todos los pasos del instalador:
 

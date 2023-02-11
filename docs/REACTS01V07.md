@@ -2,7 +2,7 @@
 
 En este video hablaremos sobre la herramienta de consola Create React App. Aquí podrás encontrar la documentación oficial de Create React App (CRA):
 
-[https://es.reactjs.org/docs/create-a-new-react-app.html](https://es.reactjs.org/docs/create-a-new-react-app.html)
+<https://es.reactjs.org/docs/create-a-new-react-app.html>
 
 Este es el comando que usaremos para ejecutar CRA y crear un proyecto React:
 

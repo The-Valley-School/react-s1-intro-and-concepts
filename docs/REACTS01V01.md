@@ -2,17 +2,17 @@
 
 En este vídeo hablaremos sobre la evolución del mundo Front-End y las librerías que fueron surgiendo a lo largo de la historia:
 
-[https://jquery.com/](https://jquery.com/) 
+<https://jquery.com/)>
 
-[https://backbonejs.org/](https://backbonejs.org/)
+<https://backbonejs.org/>
 
-[https://angularjs.org/](https://angularjs.org/)
+<https://angularjs.org/>
 
-[https://angular.io/](https://angular.io/)
+<https://angular.io/>
 
 Y finalmente nos centraremos en React:
 
-[https://reactjs.org/](https://reactjs.org/) 
+<https://reactjs.org/)>
 
 **Virtual dom de React**
 
