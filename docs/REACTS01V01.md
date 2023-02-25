@@ -1,4 +1,4 @@
-# Video 01 - Historia de React
+# Historia de React
 
 En este vídeo hablaremos sobre la evolución del mundo Front-End y las librerías que fueron surgiendo a lo largo de la historia:
 
