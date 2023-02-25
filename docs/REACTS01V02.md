@@ -1,4 +1,4 @@
-# Video 02 - Conceptos: SPA, EcmaScript, Babel, Webpack...
+# Conceptos: SPA, EcmaScript, Babel, Webpack...
 
 En este vídeo veremos algunos conceptos necesarios para trabajar con React.
 
@@ -36,7 +36,7 @@ Can I Use es un sitio web que proporciona información sobre la compatibilidad d
 
 <https://www.ecma-international.org/publications-and-standards/standards/ecma-262/>
 
-ECMAScript es un estándar de scripting para aplicaciones interactivas en el lado cliente y en el lado del servidor. Es la base para muchos lenguajes de programación, incluyendo JavaScript, el cual es el más conocido y ampliamente utilizado.
+ECMAScript es un estándar de scripting para aplicaciones interactivas en el lado del cliente y en el lado del servidor. Es la base para muchos lenguajes de programación, incluyendo JavaScript, el cual es el más conocido y ampliamente utilizado.
 
 ECMAScript es mantenido y desarrollado por la organización ECMA International, y su última versión estable es ECMAScript 2022 (ECMA-262). Esta versión incluye mejoras en el soporte para programación orientada a objetos, funciones asíncronas y otras características modernas.
 
@@ -46,7 +46,7 @@ ECMAScript es mantenido y desarrollado por la organización ECMA International, 
 
 Babel es una herramienta de compilación de JavaScript que permite a los desarrolladores escribir código utilizando las últimas características de ECMAScript, incluso si estas características aún no están ampliamente soportadas en los navegadores o plataformas.
 
-Babel convierte el código ECMAScript moderno en una versión compatible con una amplia gama de navegadores y plataformas, garantizando que su aplicación web o móvil funcione de manera consistente en todas las entornos. Además, Babel permite a los desarrolladores utilizar una sintaxis más clara y concisa, lo que aumenta la productividad y la legibilidad del código.
+Babel convierte el código ECMAScript moderno en una versión compatible con una amplia gama de navegadores y plataformas, garantizando que su aplicación web o móvil funcione de manera consistente en todos los entornos. Además, Babel permite a los desarrolladores utilizar una sintaxis más clara y concisa, lo que aumenta la productividad y la legibilidad del código.
 
 **WebPack**
 
