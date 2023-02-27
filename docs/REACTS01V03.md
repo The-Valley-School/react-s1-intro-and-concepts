@@ -2,7 +2,7 @@
 
 **Operador AND**
 
-El operador (`&&`) se utiliza para evaluar dos expresiones y retornar false si el valor de la primera expresión es falsa, o el valor de la segunda expresión si la primera es verdadera. 
+El operador (`&&`) se utiliza para evaluar dos expresiones y retornar el valor de la primera expresión si es falsa, o el valor de la segunda expresión si la primera es verdadera. 
 
 Por ejemplo:
 
