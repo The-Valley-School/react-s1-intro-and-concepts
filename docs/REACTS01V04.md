@@ -1,4 +1,4 @@
-# Video 04 - Operadores 2: ternarios y optional chaining
+# Operadores 2: ternarios y optional chaining
 
 **Optional Chaining**
 
@@ -9,7 +9,7 @@ El "optional chaining" (encadenado opcional) es una característica de JavaScrip
 object?.property
 ```
 
-El signo de interrogación antes de la flecha (**`.`**) indica que la propiedad sólo se accederá si el objeto existe y no es `null` o `undefined`.
+El signo de interrogación antes del punto (**`.`**) indica que la propiedad sólo se accederá si el objeto existe y no es `null` o `undefined`.
 
 Aquí tienes algunos ejemplos de cómo usar el "optional chaining" en JavaScript:
 
