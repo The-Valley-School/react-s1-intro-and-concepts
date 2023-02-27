@@ -19,7 +19,7 @@ console.log(doubledNumbers); // [2, 4, 6, 8, 10]
 
 filter es un método que filtra los elementos de un array según una condición dada y devuelve un nuevo array con los elementos que cumplen esa condición. Por ejemplo, si tienes un array de números y quieres obtener un nuevo array con solo los números pares, puedes usar el método `filter` para hacerlo. 
 
-Aquí tienes un ejemplo:
+Aquí tienes dos ejemplos:
 
 ```jsx
 let words = ['apple', 'banana', 'cherry', 'date', 'elderberry'];
@@ -27,4 +27,9 @@ let fiveLettersWords = words.filter(function(word) {
   return word.length === 5;
 });
 console.log(fiveLettersWords); // ['apple']
+
+let numbers = [1, 2, 3, 4, 5, 6];
+let evenNumbers = numbers.filter(function(number) {
+  return number % 2 === 0;
+});
 ```
