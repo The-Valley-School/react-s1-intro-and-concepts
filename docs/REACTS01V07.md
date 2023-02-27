@@ -1,6 +1,6 @@
-# Video 07 - Instalación de CRA y primer proyecto
+# Instalación de CRA y primer proyecto
 
-En este video hablaremos sobre la herramienta de consola Create React App. Aquí podrás encontrar la documentación oficial de Create React App (CRA):
+En este video hemos visto la herramienta de consola Create React App. Aquí podrás encontrar la documentación oficial de Create React App (CRA):
 
 <https://es.reactjs.org/docs/create-a-new-react-app.html>
 
@@ -12,7 +12,7 @@ Recuerda: No instales CRA de forma global, ya que esto te dejará en tu ordenado
 
 ~~`npm i create-react-app --global`~~
 
-Es mejor usar siempre la última disponible haciendo uso del comando indicando anteriormente. Por ello, si ya habías instalado CRA globalmente, lo puedes desinstalar con este comando:
+Es mejor usar siempre la última versión disponible haciendo uso del comando indicando anteriormente. Por ello, si ya habías instalado CRA globalmente, lo puedes desinstalar con este comando:
 
 `npm uninstall create-react-app --global`
 
