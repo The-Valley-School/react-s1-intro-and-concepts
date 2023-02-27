@@ -1,4 +1,4 @@
-# Video 05 - Repaso arrays: map y filter
+# Repaso arrays: map y filter
 
 **map**
 
@@ -26,5 +26,5 @@ let words = ['apple', 'banana', 'cherry', 'date', 'elderberry'];
 let fiveLettersWords = words.filter(function(word) {
   return word.length === 5;
 });
-console.log(fiveLettersWords); // ['apple', 'cherry', 'date']
+console.log(fiveLettersWords); // ['apple']
 ```
