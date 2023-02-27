@@ -1,4 +1,4 @@
-# Video 08 - Ejercicio
+# Ejercicio
 
 **Paso 1: Instalar node y npm**
 
